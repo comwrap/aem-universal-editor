@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: 'https://author-p41452-e1347946.adobeaemcloud.com/bin/franklin.delivery/comwrap/aem-universal-editor/main'
+    type: 'markup'
+    suffix: '.html'

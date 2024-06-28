@@ -1,0 +1,7 @@
+{
+  "mappings": [
+    "/content/biweekly/:/",
+    "/content/biweekly/configuration:/.helix/config.json",
+    "/content/biweekly.resource/query-index.json:/query-index.json"
+  ]
+}
